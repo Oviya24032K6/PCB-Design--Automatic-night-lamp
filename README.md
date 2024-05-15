@@ -43,16 +43,11 @@ During the daytime when there is a light, the LDR has very low resistance and al
 ![lamp ex-02 ebd](https://github.com/Oviya24032K6/PCB-Design--Automatic-night-lamp/assets/147139999/fd5a9bb6-f7c7-45c0-a36c-4ecf6577a78a)
 
 
-### Schematic diagram
-
-![WhatsApp Image 2024-03-22 at 14 02 34_792f155b](https://github.com/Oviya24032K6/PCB-Design--Automatic-night-lamp/assets/147139999/f24057df-4136-49cb-b4a4-98bfb8ce1d60)
-
-
-
+![file_2024-03-21_02 43 40](https://github.com/23005672/PCB-Design--Automatic-night-lamp/assets/138971519/8e9b55cc-cd82-410a-ba44-16b35c86c992)
 
 ### Layout diagram
 
-![WhatsApp Image 2024-03-22 at 14 03 08_da6971fc](https://github.com/Oviya24032K6/PCB-Design--Automatic-night-lamp/assets/147139999/c2623f84-6111-46c4-8ae0-d0c428d6da69)
+![file_2024-03-21_03 44 14](https://github.com/23005672/PCB-Design--Automatic-night-lamp/assets/138971519/1064066a-1ab3-428d-9b39-124fd2dc961c)
 
 
 
